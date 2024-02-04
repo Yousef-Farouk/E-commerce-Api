@@ -1,5 +1,4 @@
-{
-  [
+[
     {
       "id": "1",
       "name": "Black Pullover",
@@ -112,5 +111,4 @@
       "Category": "furniture",
       "img": "https://ibb.co/pwWCwCz"
     }
-  ]
-}
+]
