@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Black Pullover",
+      "pirce": 600,
+      "Category": "clothes",
+      "img": "https://ibb.co/FHxD0BZ"
+    },
+    {
+      "id": "2",
+      "name": "Jeans Jacket",
+      "pirce": 550,
+      "Category": "clothes",
+      "img": "https://ibb.co/0YtWfmj"
+    },
+    {
+      "id": "3",
+      "name": "Army Jacket",
+      "pirce": 650,
+      "Category": "clothes",
+      "img": "https://ibb.co/CnZpkq2"
+    },
+    {
+      "id": "4",
+      "name": "Black Shirt",
+      "pirce": 700,
+      "Category": "clothes",
+      "img": "https://ibb.co/HTc0Qp1"
+    },
+    {
+      "id": "5",
+      "name": "Camera",
+      "pirce": 7000,
+      "Category": "electronics",
+      "img": "https://ibb.co/mtZBkVn"
+    },
+    {
+      "id": "6",
+      "name": "Drone",
+      "pirce": 10000,
+      "Category": "electronics",
+      "img": "https://ibb.co/m558SQk"
+    },
+    {
+      "id": "7",
+      "name": "Smart Watch",
+      "pirce": 2500,
+      "Category": "electronics",
+      "img": "https://ibb.co/RjCJGSM"
+    },
+    {
+      "id": "8",
+      "name": "Air Pod",
+      "pirce": 1500,
+      "Category": "electronics",
+      "img": "https://ibb.co/j4VvbkJ"
+    },
+    {
+      "id": "9",
+      "name": "Wedding rings",
+      "pirce": 5000,
+      "Category": "jewellery",
+      "img": "https://ibb.co/7yy4RHT"
+    },
+    {
+      "id": "10",
+      "name": "Bracelet",
+      "pirce": 8000,
+      "Category": "jewellery",
+      "img": "https://ibb.co/cvxgBMW"
+    },
+    {
+      "id": "11",
+      "name": "Mix Necklace",
+      "pirce": 7500,
+      "Category": "jewellery",
+      "img": "https://ibb.co/D51c5KW"
+    },
+    {
+      "id": "12",
+      "name": "Spiral Ring",
+      "pirce": 7000,
+      "Category": "jewellery",
+      "img": "https://ibb.co/D51c5KW"
+    },
+    {
+      "id": "13",
+      "name": "White Chair",
+      "pirce": 300,
+      "Category": "furniture",
+      "img": "https://ibb.co/0q368H0"
+    },
+    {
+      "id": "14",
+      "name": "Backless Chair",
+      "pirce": 450,
+      "Category": "furniture",
+      "img": "https://ibb.co/9bBp8fc"
+    },
+    {
+      "id": "15",
+      "name": "Wood Chair",
+      "pirce": 700,
+      "Category": "furniture",
+      "img": "https://ibb.co/YcBzjTY"
+    },
+    {
+      "id": "16",
+      "name": "Relaxing Chair",
+      "pirce": 850,
+      "Category": "furniture",
+      "img": "https://ibb.co/pwWCwCz"
+    }
+  ]
+}
