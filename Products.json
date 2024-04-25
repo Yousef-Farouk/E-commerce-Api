@@ -9,14 +9,14 @@
     {
       "id": 2,
       "name": "Jeans Jacket",
-      "pirce": 550,
+      "price": 550,
       "Category": "clothes",
       "img": "https://i.ibb.co/mh8YHbC/men-02.jpg"
     },
     {
       "id": 3,
       "name": "Army Jacket",
-      "pirce": 650,
+      "price": 650,
       "Category": "clothes",
       "img": "https://i.ibb.co/7G5xwH4/men-01.jpg"
     },
