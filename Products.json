@@ -2,112 +2,112 @@
     {
       "id": 1,
       "name": "Black Pullover",
-      "price": 600,
+      "pirce": 600,
       "Category": "clothes",
       "img": "https://i.ibb.co/bbWK2rw/men-03.jpg"
     },
     {
       "id": 2,
       "name": "Jeans Jacket",
-      "price": 550,
+      "pirce": 550,
       "Category": "clothes",
       "img": "https://i.ibb.co/mh8YHbC/men-02.jpg"
     },
     {
       "id": 3,
       "name": "Army Jacket",
-      "price": 650,
+      "pirce": 650,
       "Category": "clothes",
       "img": "https://i.ibb.co/7G5xwH4/men-01.jpg"
     },
     {
       "id": 4,
       "name": "Black Shirt",
-      "price": 700,
+      "pirce": 700,
       "Category": "clothes",
       "img": "https://i.ibb.co/QvWZGjz/product-7.jpg"
     },
     {
       "id": 5,
       "name": "Camera",
-      "price": 7000,
+      "pirce": 7000,
       "Category": "electronics",
       "img": "https://i.ibb.co/P4XYKv2/product-1.jpg"
     },
     {
       "id": 6,
       "name": "Drone",
-      "price": 10000,
+      "pirce": 10000,
       "Category": "electronics",
       "img": "https://i.ibb.co/PGGQtBK/product-5.jpg"
     },
     {
       "id": 7,
       "name": "Smart Watch",
-      "price": 2500,
+      "pirce": 2500,
       "Category": "electronics",
       "img": "https://i.ibb.co/qJR2Ln4/product-6.jpg"
     },
     {
       "id": 8,
       "name": "Air Pod",
-      "price": 1500,
+      "pirce": 1500,
       "Category": "electronics",
       "img": "https://i.ibb.co/Snbj8bH/Wireless-Headphones.png"
     },
     {
       "id": 9,
       "name": "Wedding rings",
-      "price": 5000,
+      "pirce": 5000,
       "Category": "jewellery",
       "img": "https://i.ibb.co/zffJ71L/h3-shop-list-5.jpg"
     },
     {
       "id": 10,
       "name": "Bracelet",
-      "price": 8000,
+      "pirce": 8000,
       "Category": "jewellery",
       "img": "https://i.ibb.co/592M0tQ/h3-shop-list-6.jpg"
     },
     {
       "id": 11,
       "name": "Mix Necklace",
-      "price": 7500,
+      "pirce": 7500,
       "Category": "jewellery",
       "img": "https://i.ibb.co/qkDqk1j/h3-shop-list-new-1.jpg"
     },
     {
       "id": 12,
       "name": "Spiral Ring",
-      "price": 7000,
+      "pirce": 7000,
       "Category": "jewellery",
       "img": "https://i.ibb.co/fqkJHwK/h3-shop-list-13.jpg"
     },
     {
       "id": 13,
       "name": "White Chair",
-      "price": 300,
+      "pirce": 300,
       "Category": "furniture",
       "img": "https://i.ibb.co/5TVStbQ/product1-jpg.webp"
     },
     {
       "id": 14,
       "name": "Backless Chair",
-      "price": 450,
+      "pirce": 450,
       "Category": "furniture",
       "img": "https://i.ibb.co/0C1nDWm/product3-jpg.webp"
     },
     {
       "id": 15,
       "name": "Wood Table",
-      "price": 700,
+      "pirce": 700,
       "Category": "furniture",
       "img": "https://i.ibb.co/R3TxH4Z/product4-jpg.webp"
     },
     {
       "id": 16,
       "name": "Relaxing Chair",
-      "price": 850,
+      "pirce": 850,
       "Category": "furniture",
       "img": "https://i.ibb.co/r0bn0n6/product5-jpg.webp"
     }
